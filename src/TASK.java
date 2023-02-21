@@ -2,7 +2,7 @@
 
 public class TASK {
     public static void main(String[] args) {
-        System.out.println("Задание 1, 2, 3");
+        System.out.println("Задание 1, 2, 3 ");
         double dog = 8;
         double cat = 3.6;
         int paper = 763789;
